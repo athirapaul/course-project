@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="PROFILE" />
+        <item
+            android:id="@+id/nav_photography_style"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="PHOTOGRAPHY STYLE" />
+        <item
+            android:id="@+id/nav_news_highlights"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="NEWS HIGHLIGHTS" />
+
+    </group>
+
+
+        </menu>

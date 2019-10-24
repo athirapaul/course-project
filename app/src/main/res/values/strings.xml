@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Photo Connect</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="names">
+        <item>canon 5D MKV</item>
+        <item>Pentax K-70 DSLR </item>
+        <item>Nikon COOLPIX A1000 </item>
+        <item>Sony Cyber-shot DSC-RX0 II</item>
+        <item>Nikon COOLPIX P1000</item>
+        <item>GoPro HERO7</item>
+    </string-array>
+
+
+</resources>
