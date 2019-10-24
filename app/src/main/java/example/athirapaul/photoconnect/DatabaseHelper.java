@@ -70,17 +70,6 @@ public boolean addMapTable(Double LATITUDE, Double LONGITUDE){
         PhotoConnectSQLite.close();
         return true;
     }
-//    public boolean addImageTable(byte[] IMAGE) {
-//
-//        SQLiteDatabase PhotoConnectSQLite = getWritableDatabase();
-//        ContentValues contentValues = new ContentValues();
-//        // contentValues.put("ID",ID);
-//        contentValues.put("IMAGE",IMAGE);
-//
-//        PhotoConnectSQLite.insert("Image_table", null, contentValues);
-//        PhotoConnectSQLite.close();
-//        return true;
-//    }
 
     @Override
     public void onUpgrade(SQLiteDatabase PhotoConnectSQLite, int oldVersion, int newVersion) {
